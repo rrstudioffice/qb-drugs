@@ -23,5 +23,6 @@ client_scripts {
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
     'server/deliveries.lua',
+    'server/harvest.lua',
     'server/cornerselling.lua'
 }

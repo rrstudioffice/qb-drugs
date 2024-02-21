@@ -14,7 +14,8 @@ local Translations = {
         dealer_not_exists = "Esse traficante não existe",
         no_dealers = "Nenhum traficante foi colocado",
         dealer_not_exists_command = "Traficante %{dealerName} não existe",
-        in_vehicle = "Não é possível vender estando em um veículo"
+        in_vehicle = "Não é possível vender estando em um veículo",
+        delivery_fail = "Não consegui encontrar uma entrega para você agora. Desculpe por isso!",
     },
     success = {
         helped_player = "Você ajudou uma pessoa a se levantar",
@@ -69,7 +70,8 @@ local Translations = {
         dealergoto_command_help1_help = "Nome do traficante",
         list_dealers_title = "Lista de todos os traficantes: ",
         list_dealers_name_prefix = "Nome: ",
-        selling_to_ped = "Vendendo drogas..."
+        selling_to_ped = "Vendendo drogas...",
+        delivery_search = "Atualmente procurando por uma entrega..."
     }
 }
 

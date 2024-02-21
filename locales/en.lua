@@ -15,7 +15,7 @@ local Translations = {
         no_dealers = "No dealers have been placed",
         dealer_not_exists_command = "Dealer %{dealerName} doesn't exist",
         in_vehicle = "Can't sell while in a vehicle",
-        delivery_fail = "I couldn't find a delivery for you right now. Sorry about that!",
+        delivery_fail = "I couldn't find a delivery for you right now. Sorry about that!"
     },
     success = {
         helped_player = "You helped a person up",
